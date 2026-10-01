@@ -1,0 +1,11 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+data/ml-32m/
+data/*.zip
+*.html
+.streamlit/secrets.toml
